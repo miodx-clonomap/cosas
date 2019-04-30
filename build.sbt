@@ -1,5 +1,7 @@
 name          := "cosas"
-organization  := "ohnosequences"
+organization  := "clonomap" // This variable is used in code generation. It must be valid identifier. 
+                            // Hence, we cannot use miodx-clonomap
+version       := "0.10.1"
 description   := "esas cosas raras con muchos tipos"
 
 crossScalaVersions := Seq("2.11.11", "2.12.3")
