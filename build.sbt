@@ -1,6 +1,5 @@
 name          := "cosas"
-organization  := "clonomap" // This variable is used in code generation. It must be valid identifier. 
-                            // Hence, we cannot use miodx-clonomap
+organization  := "com.miodx.common"
 version       := "0.10.1"
 description   := "esas cosas raras con muchos tipos"
 
