@@ -17,7 +17,7 @@
 Add this to `build.sbt`:
 
 ```scala
-libraryDependencies += "ohnosequences" %% "cosas" % "<version>"
+libraryDependencies += "clonomap" %% "cosas" % "<version>"
 ```
 
 (see the latest version on the badge above)
