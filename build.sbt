@@ -3,8 +3,8 @@ organization  := "com.miodx.common"
 version       := "0.10.1"
 description   := "esas cosas raras con muchos tipos"
 
-crossScalaVersions := Seq("2.11.11", "2.12.3")
-scalaVersion  := crossScalaVersions.value.last
+crossScalaVersions := Seq("2.11.11", "2.12.8")
+scalaVersion  := "2.11.11"
 
 bucketSuffix  := "era7.com"
 
